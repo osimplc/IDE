@@ -19,6 +19,13 @@ Por favor, consulte por email a info@osimplc.com acerca de nuevas característic
 There is not a "stable" version; however all released versions are fully functional and allow to program the user application in Ladder language, compile to .hex file and then download the machine code to OSIMPLC hardware directly from LDmicro software, whithout requiring to launch the transfer programs (OBootLin, TinyMultiBootloader+, OWL) from external menus, desktop files or shortcuts.  
 
 Please ask by email to info@osimplc.com about new features, compatibility,  installation on GNU/Linux and dependencies, installation on MS Windows and required redistributables.  
+---
+## Version
+**v.2.1**
+
+es: LDmicro actualizado a Release 5.4.1.1, built 21:01:03 Mar 22 2021.  
+
+en: LDmicro updated to a Release 5.4.1.1, built 21:01:03 Mar 22 2021.  
 
 ---
 ## Version
