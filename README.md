@@ -25,7 +25,7 @@ Please ask by email to info@osimplc.com about new features, compatibility,  inst
 
 es: LDmicro actualizado a Release 5.4.1.1, built 21:01:03 Mar 22 2021.  
 
-en: LDmicro updated to a Release 5.4.1.1, built 21:01:03 Mar 22 2021.  
+en: LDmicro updated to Release 5.4.1.1, built 21:01:03 Mar 22 2021.  
 
 ---
 ## Version
